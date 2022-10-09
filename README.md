@@ -21,3 +21,6 @@ https://developers.google.com/ar/develop/geospatial
 
 ## ICP laempy
 https://laempy.github.io/pyoints/tutorials/icp.html
+
+## Useful Point Cloud Data
+https://github.com/mmolero/awesome-point-cloud-processing

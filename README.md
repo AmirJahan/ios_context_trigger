@@ -27,3 +27,6 @@ https://github.com/mmolero/awesome-point-cloud-processing
 
 ## Point Cloud Lab Notebook
 https://github.com/UP-RS-ESP/PointCloudWorkshop-May2022/blob/main/2_Alignment/ICP_SVD_Gaussian_hill.ipynb
+
+## Elaborate ICP Notebook
+https://nbviewer.org/github/niosus/notebooks/blob/master/icp.ipynb

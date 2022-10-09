@@ -24,3 +24,6 @@ https://laempy.github.io/pyoints/tutorials/icp.html
 
 ## Useful Point Cloud Data
 https://github.com/mmolero/awesome-point-cloud-processing
+
+## Point Cloud Lab Notebook
+https://github.com/UP-RS-ESP/PointCloudWorkshop-May2022/blob/main/2_Alignment/ICP_SVD_Gaussian_hill.ipynb

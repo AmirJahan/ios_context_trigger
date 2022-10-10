@@ -30,3 +30,6 @@ https://github.com/UP-RS-ESP/PointCloudWorkshop-May2022/blob/main/2_Alignment/IC
 
 ## Elaborate ICP Notebook
 https://nbviewer.org/github/niosus/notebooks/blob/master/icp.ipynb
+
+# State-of-the-art ICP
+https://gfx.cs.princeton.edu/pubs/Rusinkiewicz_2019_ASO/index.php
